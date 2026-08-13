@@ -6,8 +6,6 @@ I like building software, exploring security, and understanding the relationship
 
 I'm particularly interested in **data sovereignty, privacy, cybersecurity and digital rights**.
 
-### What I work with
-
 **Languages & Frameworks**
 
 `Python` · `PHP` · `JavaScript` · `TypeScript` · `HTML/CSS`
