@@ -24,7 +24,5 @@ I'm particularly interested in **data sovereignty, privacy, cybersecurity and di
 
 ### Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-> **Build things. Break things. Understand how they work.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/niccol%C3%B2-passera-7aba44242/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/nico-tinico)
